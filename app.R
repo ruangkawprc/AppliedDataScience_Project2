@@ -99,21 +99,21 @@ ui <- fluidPage(
                     ),
                     tabPanel("Data Cleaning and Preprocessing",
                              div(class = "well",
-                                 div(class = "tab-panel-header", h4("Step 1: Loading Dataset", style = "font-weight: 600;"),
+                                 div(class = "tab-panel-header", h4("TBD", style = "font-weight: 600;"),
                                      span(class = "step-arrow", "→")
                                  )
                              )
                     ),
                     tabPanel("Feature Engineering",
                              div(class = "well",
-                                 div(class = "tab-panel-header", h4("Step 2: Data Cleaning", style = "font-weight: 600;"),
+                                 div(class = "tab-panel-header", h4("TBD", style = "font-weight: 600;"),
                                      span(class = "step-arrow", "→")
                                  )
                              )
                     ),
                     tabPanel("Exploratory Data Analysis (EDA)",
                              div(class = "well",
-                                 div(class = "tab-panel-header", h4("Step 3: Feature Engineering", style = "font-weight: 600;"),
+                                 div(class = "tab-panel-header", h4("TBD", style = "font-weight: 600;"),
                                      span(class = "step-arrow", "→")
                                  )
                              )
