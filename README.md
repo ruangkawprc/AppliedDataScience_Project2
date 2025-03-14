@@ -54,7 +54,7 @@ For One-hot Encoding:
 
 You can select one variable to do the one-hot encoding, but make sure you choose the categorical variable. After selecting one variable and selecting the "One hot encoding" drop-down button and clicking "Apply Transformation" button, the tab-One-hot Encoded Data will show the output of the one-hot encoding. 
 
-# Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 The EDA module offers a suite of visualization and analytical tools that enable users to gain deeper insights into the dataset.
 
