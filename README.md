@@ -4,7 +4,7 @@
 
 0. **Check out our deployed application**
 
-deployed to <https://ruangkawprc.shinyapps.io/app-AllNewRevised.R/>
+deployed to <https://ruangkawprc.shinyapps.io/applieddatascience_project2/>
 
 1. **Clone the Repository:**
 ```
