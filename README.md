@@ -28,4 +28,4 @@ When you uploaded a file, the app will automatically show three variables. To mo
 
 For One-hot Encoding: 
 
-You can select one variable to do the one-hot encoding, but make sure you choose the categorical variable. After selecting one variable and "One hot encoding button"and clicking "Apply Transformation" button, the tab-One-hot Encoded Data will show the output of the one-hot encoding. 
+You can select one variable to do the one-hot encoding, but make sure you choose the categorical variable. After selecting one variable and selecting the "One hot encoding" button and clicking "Apply Transformation" button, the tab-One-hot Encoded Data will show the output of the one-hot encoding. 
