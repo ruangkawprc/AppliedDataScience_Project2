@@ -19,7 +19,6 @@ Our application support .csv, .xlsx and .txt files. We provide one sample datase
     *Source:* Kaggle\
     *Description:* Comprises production details, broadcast information, content summaries, and user ratings for Korean dramas. It serves purposes in entertainment trend analysis and recommendation modeling.
   
-The uploaded dataset in this tab will be used in the other tabs.
    
 ## Data Cleaning
 
@@ -35,8 +34,6 @@ From the uploaded dataset from Loading Datasets tab, we can perform the followin
 
 3.  **Outlier Treatment**\
     Used the Interquartile Range (IQR) method to detect outliers, removing or capping extreme values at calculated thresholds.
-
-For instance, after applying removing duplicates and removing outliers, the data table and number of rows before and after will be shown.
 
 ## Feature Engineering:
 
