@@ -107,8 +107,8 @@ ui <- fluidPage(
                  ),
                  mainPanel(
                    tabsetPanel(
-                     tabPanel("Dataset", DT::dataTableOutput("dataTable")),
-                     tabPanel("Histogram", plotOutput("histPlot")),
+                     
+                     tabPanel("Histogram", plotOutput("histPlotTansformation")),
                      tabPanel("One-Hot Encoded Data", DT::dataTableOutput("encodedDataOutput"))  # New tab for one-hot encoded data
                    )
                  )
@@ -290,7 +290,7 @@ server <- function(input, output, session) {
   })
   
   # Plot histograms for original and transformed data using ggplot2
-  output$histPlot <- renderPlot({
+  output$histPlotTansformation <- renderPlot({
     req(transformed_data())
     
     data_df <- transformed_data()
