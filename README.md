@@ -72,7 +72,7 @@ Upon uploading a CSV or JSON file, users immediately see a **comprehensive summa
 
 -   **Correlation Analysis**
 
-    -   **Correlation Matrix**: Displays a table of correlation coefficients among numeric columns.\
+    -   **Correlation Matrix**: Displays a table of correlation coefficients among numeric columns.
     -   **Correlation Heatmap**: Offers a more visual approach to correlation. When datasets have numerous columns, you can enable “Show Top 15 in Correlation Heatmap” to focus on the most correlated variables.\
 
  ## Data Filtering and Export
